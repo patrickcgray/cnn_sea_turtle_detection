@@ -8,7 +8,7 @@ Turtle image data along with labels for independent machine learning development
 
 #### Using this code:
 
-running run.sh in bash will run the full scripts.
+Running run.sh in bash will run the full script turtle detection workflow.
 
 * data.py                 
   * defines utility functions for model creation and matlab ingestion functions
