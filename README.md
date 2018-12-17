@@ -4,6 +4,8 @@
 
 ## Code for Methods in Ecology and Evolution paper: "A Convolutional Neural Network for Detecting Sea Turtles in Drone Imagery"
 
+#### Paper can be accessed at: https://doi.org/10.1111/2041-210X.13132
+
 ### Using this code:
 
 Running run.sh in bash will run the full turtle detection workflow.
